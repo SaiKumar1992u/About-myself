@@ -1,0 +1,23 @@
+body{
+  background-image:url('background1.jpg');background-repeat:no-repeat;background-size:cover;background-attachment:fixed;
+}
+h1{
+  color:red;
+}
+h2{
+  color:red;
+}
+tr{
+style=color:red;text-align: middle;
+}
+tr{
+color:rgb(200, 200, 200);
+}
+.line{
+border:1px solid white;border-collapse:collapse;padding:30px;
+}
+.line1{
+border:1px solid white;padding:10px;text-align:center;
+}
+.line2{
+color:rgb(200, 200, 200);font-family:Times New Roman;
